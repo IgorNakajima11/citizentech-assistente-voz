@@ -10,6 +10,7 @@ st.cache_resource(show_spinner="Carregando a base de conhecimento...")(indice)()
 st.session_state.setdefault("consentiu", False)
 st.session_state.setdefault("conversa", [])
 st.session_state.setdefault("ultimo_audio", None)
+st.session_state.setdefault("rodada", 0)
 
 st.title("CitizenTech por voz")
 st.write("Fale sua dúvida sobre serviços de zeladoria da Prefeitura de São Paulo (buraco, entulho, árvore, "
@@ -41,9 +42,10 @@ with st.sidebar:
 
 aba_mic, aba_arquivo = st.tabs(["Falar pelo microfone", "Enviar arquivo de áudio"])
 with aba_mic:
-    gravado = st.audio_input("Aperte para falar e aperte de novo para terminar")
+    gravado = st.audio_input("Aperte para falar e aperte de novo para terminar", key=f"mic{st.session_state.rodada}")
 with aba_arquivo:
-    enviado = st.file_uploader("Arquivo de áudio (wav, mp3, ogg, m4a, webm)", type=["wav", "mp3", "ogg", "m4a", "webm"])
+    enviado = st.file_uploader("Arquivo de áudio (wav, mp3, ogg, m4a, webm)", type=["wav", "mp3", "ogg", "m4a", "webm"],
+                               key=f"arq{st.session_state.rodada}")
 
 entrada = gravado or enviado
 if entrada is not None:
@@ -58,6 +60,8 @@ if entrada is not None:
             turno = pipeline.processar(dados, historico, motor, getattr(entrada, "name", "audio.wav"))
         del dados
         st.session_state.conversa.append(turno)
+        st.session_state.rodada += 1
+        st.rerun()
 
 for n, t in enumerate(reversed(st.session_state.conversa)):
     ultimo = n == 0

@@ -3,6 +3,8 @@
 Global Solution 2026.2, disciplina Processamento de Linguagem Natural, Chatbots & Virtual Agents.
 Integrante: **Igor Thiago Nakajima Vieira**, RM 563632 (trabalho individual).
 
+**Vídeo (conversa por voz com continuação e recusa):** [video/apresentacao_igor_nakajima_563632.mp4](video/apresentacao_igor_nakajima_563632.mp4)
+
 O cidadão aperta um botão, fala a dúvida ("qual o prazo para tapar o buraco da minha rua?") e ouve a resposta em
 português, que também aparece em texto na tela. As respostas vêm só das páginas oficiais da Carta de Serviços do
 portal SP156, da Prefeitura de São Paulo. O assistente lembra a conversa ("e é pago?"), recusa assuntos fora do tema
