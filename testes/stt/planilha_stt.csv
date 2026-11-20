@@ -1,0 +1,61 @@
+motor;id;origem;voz;ruido;referencia;transcricao;wer;tempo_s
+whisper-local-small;real01;real;Igor (gravação real);False;Qual o prazo para tapar um buraco na minha rua?;Qual o peso para tapar um boiaco na minha rua?;0.2;2.42
+whisper-local-small;real02;real;Igor (gravação real);False;Tem entulho jogado na calçada, como eu peço a remoção?;em tudo jogados na calçada, como péssima remoção.;0.6;2.9
+whisper-local-small;real03;real;Igor (gravação real);False;O Cata-Bagulho passou e não levou os meus móveis velhos.;Cata bagulho passou e não elebrou os meus óbeis velhos.;0.273;2.56
+whisper-local-small;real04;real;Igor (gravação real);False;Preciso avisar a prefeitura para podar a árvore do meu quintal?;Precisa visitar a prefeitura para apoiar o vídeo de novo. Tchau.;0.727;2.75
+whisper-local-small;real05;real;Igor (gravação real);False;A faixa de pedestre da esquina está apagada.;Aqui que o PD está, isso aqui está apagado.;1.0;2.89
+whisper-local-small;real06;real;Igor (gravação real);False;Tem um carro abandonado na minha rua faz meses.;e um carro abandonado na minha rua faz viz.;0.222;2.6
+whisper-local-small;real07;real;Igor (gravação real);False;Encontrei água parada num terreno, pode ser foco de dengue.;Encontrei aquapados no terreno, pode ser foco de dengue.;0.3;3.11
+whisper-local-small;real08;real;Igor (gravação real);True;Uma árvore caiu na rua, para quem eu ligo?;Arbicão na rua, para quem eu ligo?;0.333;2.65
+whisper-local-small;real09;real;Igor (gravação real);True;Quanto custa o serviço de tapa-buraco?;O curso serviço está para o boéco.;1.0;2.6
+whisper-local-small;real10;real;Igor (gravação real);True;E onde eu faço esse pedido?;E onde que eu faço esse pedido?;0.167;2.69
+whisper-local-small;sint01;sintetico;Antonio;False;Como eu peço a poda de uma árvore que está na calçada?;Como eu peço a poda de uma árvore que está na calçada?;0.0;2.75
+whisper-local-small;sint02;sintetico;Antonio;False;A prefeitura cobra alguma taxa para remover entulho?;A prefeitura cobra alguma taxa para remover em tulio?;0.25;2.67
+whisper-local-small;sint03;sintetico;Antonio;True;Tem uma caçamba de entulho em cima da calçada há uma semana.;Tem uma caçamba de intúlio em cima da calçada há uma semana.;0.083;2.95
+whisper-local-small;sint04;sintetico;ThalitaMultilingual;False;A escadaria da minha viela está quebrada, quem conserta?;A escadaria da minha viela está quebrada. Quem conserta?;0.0;2.78
+whisper-local-small;sint05;sintetico;ThalitaMultilingual;False;Quanto tempo demora a remoção de um carro abandonado?;Quanto tempo demora a remoção de um carro abandonado?;0.0;2.63
+whisper-local-small;sint06;sintetico;ThalitaMultilingual;True;O semáforo do cruzamento precisa de mais tempo para os pedestres.;O semáforo do cruzamento precisa de mais tempo para os pedestres.;0.0;2.98
+whisper-local-small;sint07;sintetico;Francisca;False;Uma placa de trânsito caiu na avenida perto da minha casa.;Uma placa de trânsito caiu na avenida perto da minha casa.;0.0;2.8
+whisper-local-small;sint08;sintetico;Francisca;False;Quero denunciar descarte irregular de entulho num terreno.;Quero denunciar descarte regular de entulho no terreno.;0.25;2.72
+whisper-local-small;sint09;sintetico;Francisca;False;O tapa-buraco é feito em dias de chuva?;O tapaburaco é feito em dias de chuva?;0.222;2.8
+whisper-local-small;sint10;sintetico;Antonio;False;Como faço para avisar a Defesa Civil de uma emergência?;Como faço para avisar a defesa civil de uma emergência?;0.0;2.69
+whisper-local-base;real01;real;Igor (gravação real);False;Qual o prazo para tapar um buraco na minha rua?;Qual o peso que tá bom bué com a minha rua?;0.7;0.9
+whisper-local-base;real02;real;Igor (gravação real);False;Tem entulho jogado na calçada, como eu peço a remoção?;o turificado na calçada como pego como pego na rolosão;0.8;3.93
+whisper-local-base;real03;real;Igor (gravação real);False;O Cata-Bagulho passou e não levou os meus móveis velhos.;;1.0;0.95
+whisper-local-base;real04;real;Igor (gravação real);False;Preciso avisar a prefeitura para podar a árvore do meu quintal?;Mas o que é isso? Mas o que é isso? Mas o que é isso?;1.364;0.93
+whisper-local-base;real05;real;Igor (gravação real);False;A faixa de pedestre da esquina está apagada.;Fili PD, esse fez que me está apalhado.;0.875;2.74
+whisper-local-base;real06;real;Igor (gravação real);False;Tem um carro abandonado na minha rua faz meses.;Tem um carro abandonado na minha roupa às vezes.;0.333;0.86
+whisper-local-base;real07;real;Igor (gravação real);False;Encontrei água parada num terreno, pode ser foco de dengue.;Encontrei a ocupada no terreno, pode ser foco de dengue.;0.3;0.93
+whisper-local-base;real08;real;Igor (gravação real);True;Uma árvore caiu na rua, para quem eu ligo?;Arbrica o da Rua, para quem eu digo.;0.556;3.32
+whisper-local-base;real09;real;Igor (gravação real);True;Quanto custa o serviço de tapa-buraco?;como seu serviço estava boaco;0.857;0.86
+whisper-local-base;real10;real;Igor (gravação real);True;E onde eu faço esse pedido?;E onde que eu faço esse pedido?;0.167;0.88
+whisper-local-base;sint01;sintetico;Antonio;False;Como eu peço a poda de uma árvore que está na calçada?;Como eu peço a poda de uma árvore que está na calçada?;0.0;0.96
+whisper-local-base;sint02;sintetico;Antonio;False;A prefeitura cobra alguma taxa para remover entulho?;A prefeitura cobra alguma taxa para remover em túlio?;0.25;1.07
+whisper-local-base;sint03;sintetico;Antonio;True;Tem uma caçamba de entulho em cima da calçada há uma semana.;Tem uma caçamba de entúlio em cima da calçada uma semana.;0.167;0.94
+whisper-local-base;sint04;sintetico;ThalitaMultilingual;False;A escadaria da minha viela está quebrada, quem conserta?;A escadaria da minha viela está quebrada, quem conserta.;0.0;0.92
+whisper-local-base;sint05;sintetico;ThalitaMultilingual;False;Quanto tempo demora a remoção de um carro abandonado?;Quanto tempo demora a remoção de um carro abandonado?;0.0;0.9
+whisper-local-base;sint06;sintetico;ThalitaMultilingual;True;O semáforo do cruzamento precisa de mais tempo para os pedestres.;O semáforo do cruzamento precisa de mais tempo para os pedestres.;0.0;0.97
+whisper-local-base;sint07;sintetico;Francisca;False;Uma placa de trânsito caiu na avenida perto da minha casa.;Uma placa de trânsito caiu na avenida perto da minha casa.;0.0;0.93
+whisper-local-base;sint08;sintetico;Francisca;False;Quero denunciar descarte irregular de entulho num terreno.;Quero denunciar de escarte e regular de entulho num terreno.;0.5;0.94
+whisper-local-base;sint09;sintetico;Francisca;False;O tapa-buraco é feito em dias de chuva?;O tapaburaco é feito em dias de chuva?;0.222;0.91
+whisper-local-base;sint10;sintetico;Antonio;False;Como faço para avisar a Defesa Civil de uma emergência?;Como faço para avisar a defesa se viu de uma emergência?;0.2;1.19
+groq-whisper-large-v3-turbo;real01;real;Igor (gravação real);False;Qual o prazo para tapar um buraco na minha rua?;qual o prazo pra tapar um buiaco na minha rua?;0.2;0.48
+groq-whisper-large-v3-turbo;real02;real;Igor (gravação real);False;Tem entulho jogado na calçada, como eu peço a remoção?;...túrio jogado na calçada, como peça em remoção.;0.5;0.69
+groq-whisper-large-v3-turbo;real03;real;Igor (gravação real);False;O Cata-Bagulho passou e não levou os meus móveis velhos.;Cata bagulho passou em ônibus nos móveis velhos.;0.545;0.48
+groq-whisper-large-v3-turbo;real04;real;Igor (gravação real);False;Preciso avisar a prefeitura para podar a árvore do meu quintal?;Preciso avisar a prefeitura para podar água no hospital?;0.455;0.39
+groq-whisper-large-v3-turbo;real05;real;Igor (gravação real);False;A faixa de pedestre da esquina está apagada.;O baixo de pedestre da esquina está apagada.;0.25;0.57
+groq-whisper-large-v3-turbo;real06;real;Igor (gravação real);False;Tem um carro abandonado na minha rua faz meses.;Tenho um carro abandonado na minha rua faz vezes.;0.222;0.48
+groq-whisper-large-v3-turbo;real07;real;Igor (gravação real);False;Encontrei água parada num terreno, pode ser foco de dengue.;Encontrei água parada no terreno, pode ser foco de dengue.;0.1;0.89
+groq-whisper-large-v3-turbo;real08;real;Igor (gravação real);True;Uma árvore caiu na rua, para quem eu ligo?;O Carví caiu na rua. Para quem eu digo?;0.333;0.58
+groq-whisper-large-v3-turbo;real09;real;Igor (gravação real);True;Quanto custa o serviço de tapa-buraco?;Custo-serviço de Tapa Boiaco;0.571;0.72
+groq-whisper-large-v3-turbo;real10;real;Igor (gravação real);True;E onde eu faço esse pedido?;E onde que eu faço esse pedido?;0.167;0.35
+groq-whisper-large-v3-turbo;sint01;sintetico;Antonio;False;Como eu peço a poda de uma árvore que está na calçada?;Como eu peço a poda de uma árvore que está na calçada?;0.0;0.37
+groq-whisper-large-v3-turbo;sint02;sintetico;Antonio;False;A prefeitura cobra alguma taxa para remover entulho?;A prefeitura cobra alguma taxa para remover entulho?;0.0;0.69
+groq-whisper-large-v3-turbo;sint03;sintetico;Antonio;True;Tem uma caçamba de entulho em cima da calçada há uma semana.;Tem uma caçamba de entulho em cima da calçada uma semana.;0.083;0.48
+groq-whisper-large-v3-turbo;sint04;sintetico;ThalitaMultilingual;False;A escadaria da minha viela está quebrada, quem conserta?;A escadaria da minha viela está quebrada. Quem conserta?;0.0;0.48
+groq-whisper-large-v3-turbo;sint05;sintetico;ThalitaMultilingual;False;Quanto tempo demora a remoção de um carro abandonado?;Quanto tempo demora a remoção de um carro abandonado?;0.0;0.7
+groq-whisper-large-v3-turbo;sint06;sintetico;ThalitaMultilingual;True;O semáforo do cruzamento precisa de mais tempo para os pedestres.;O semáforo do cruzamento precisa de mais tempo para os pedestres.;0.0;0.46
+groq-whisper-large-v3-turbo;sint07;sintetico;Francisca;False;Uma placa de trânsito caiu na avenida perto da minha casa.;Uma placa de trânsito caiu na avenida perto da minha casa.;0.0;0.49
+groq-whisper-large-v3-turbo;sint08;sintetico;Francisca;False;Quero denunciar descarte irregular de entulho num terreno.;Quero denunciar descarte irregular de entulho num terreno.;0.0;0.48
+groq-whisper-large-v3-turbo;sint09;sintetico;Francisca;False;O tapa-buraco é feito em dias de chuva?;O tapar buraco é feito em dias de chuva?;0.111;0.48
+groq-whisper-large-v3-turbo;sint10;sintetico;Antonio;False;Como faço para avisar a Defesa Civil de uma emergência?;Como faço para avisar a defesa civil de uma emergência?;0.0;0.48

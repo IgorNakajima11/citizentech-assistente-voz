@@ -1,0 +1,12 @@
+[
+ {"id": "sint01", "texto": "Como eu peço a poda de uma árvore que está na calçada?", "voz": "pt-BR-AntonioNeural", "ruido": false},
+ {"id": "sint02", "texto": "A prefeitura cobra alguma taxa para remover entulho?", "voz": "pt-BR-AntonioNeural", "ruido": false},
+ {"id": "sint03", "texto": "Tem uma caçamba de entulho em cima da calçada há uma semana.", "voz": "pt-BR-AntonioNeural", "ruido": true},
+ {"id": "sint04", "texto": "A escadaria da minha viela está quebrada, quem conserta?", "voz": "pt-BR-ThalitaMultilingualNeural", "ruido": false},
+ {"id": "sint05", "texto": "Quanto tempo demora a remoção de um carro abandonado?", "voz": "pt-BR-ThalitaMultilingualNeural", "ruido": false},
+ {"id": "sint06", "texto": "O semáforo do cruzamento precisa de mais tempo para os pedestres.", "voz": "pt-BR-ThalitaMultilingualNeural", "ruido": true},
+ {"id": "sint07", "texto": "Uma placa de trânsito caiu na avenida perto da minha casa.", "voz": "pt-BR-FranciscaNeural", "ruido": false},
+ {"id": "sint08", "texto": "Quero denunciar descarte irregular de entulho num terreno.", "voz": "pt-BR-FranciscaNeural", "ruido": false},
+ {"id": "sint09", "texto": "O tapa-buraco é feito em dias de chuva?", "voz": "pt-BR-FranciscaNeural", "ruido": false},
+ {"id": "sint10", "texto": "Como faço para avisar a Defesa Civil de uma emergência?", "voz": "pt-BR-AntonioNeural", "ruido": false}
+]

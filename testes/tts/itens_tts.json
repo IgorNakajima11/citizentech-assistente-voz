@@ -1,0 +1,62 @@
+[
+ {
+  "id": "tts01",
+  "origem": "L01",
+  "texto_original": "O prazo máximo para o serviço de tapa‑buraco é de 45 dias.",
+  "texto_falado": "O prazo máximo para o serviço de tapa-buraco é de quarenta e cinco dias."
+ },
+ {
+  "id": "tts02",
+  "origem": "L02",
+  "texto_original": "Não, o serviço de tapa‑buraco em faixa exclusiva ou corredor de ônibus é gratuito.",
+  "texto_falado": "Não, o serviço de tapa-buraco em faixa exclusiva ou corredor de ônibus é gratuito."
+ },
+ {
+  "id": "tts03",
+  "origem": "L03",
+  "texto_original": "Não, o tapa‑buraco não é realizado em dias chuvosos, podendo haver alterações na programação.",
+  "texto_falado": "Não, o tapa-buraco não é realizado em dias chuvosos, podendo haver alterações na programação."
+ },
+ {
+  "id": "tts04",
+  "origem": "L04",
+  "texto_original": "Se o buraco foi aberto pela Sabesp, a própria Sabesp (ou outra concessionária responsável) deve fazer o conserto, não a Prefeitura.",
+  "texto_falado": "Se o buraco foi aberto pela Sabesp, a própria Sabesp (ou outra concessionária responsável) deve fazer o conserto, não a Prefeitura."
+ },
+ {
+  "id": "tts05",
+  "origem": "L05",
+  "texto_original": "Você deve solicitar o serviço de Tapa‑buraco em faixa exclusiva ou corredor de ônibus.",
+  "texto_falado": "Você deve solicitar o serviço de Tapa-buraco em faixa exclusiva ou corredor de ônibus."
+ },
+ {
+  "id": "tts06",
+  "origem": "L06",
+  "texto_original": "A avaliação da poda de árvore em calçada leva até 120 dias após a solicitação.",
+  "texto_falado": "A avaliação da poda de árvore em calçada leva até cento e vinte dias após a solicitação."
+ },
+ {
+  "id": "tts07",
+  "origem": "L07",
+  "texto_original": "Sim, você deve comunicar a poda à Prefeitura imediatamente e enviar o Laudo Técnico de engenheiro agrônomo/florestal ou biólogo; a análise será concluída em até 10 dias.",
+  "texto_falado": "Sim, você deve comunicar a poda à Prefeitura imediatamente e enviar o Laudo Técnico de engenheiro agrônomo/florestal ou biólogo. A análise será concluída em até dez dias."
+ },
+ {
+  "id": "tts08",
+  "origem": "L08",
+  "texto_original": "Em caso de queda de árvore, ligue para a Defesa Civil no número 156.",
+  "texto_falado": "Em caso de queda de árvore, ligue para a Defesa Civil no número um cinco seis."
+ },
+ {
+  "id": "tts09",
+  "origem": "F01",
+  "texto_original": "Não encontrei essa informação nas páginas oficiais que consulto. Para confirmar, ligue 156 ou acesse o portal SP156.",
+  "texto_falado": "Não encontrei essa informação nas páginas oficiais que consulto. Para confirmar, ligue um cinco seis ou acesse o portal S P cento e cinquenta e seis."
+ },
+ {
+  "id": "tts10",
+  "origem": "F02",
+  "texto_original": "Não encontrei informações sobre como processar vizinho por barulho na base; sugiro ligar para 156 para orientações.",
+  "texto_falado": "Não encontrei informações sobre como processar vizinho por barulho na base. Sugiro ligar para um cinco seis para orientações."
+ }
+]

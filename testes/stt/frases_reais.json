@@ -1,0 +1,12 @@
+[
+ {"id": "real01", "texto": "Qual o prazo para tapar um buraco na minha rua?", "ruido": false},
+ {"id": "real02", "texto": "Tem entulho jogado na calçada, como eu peço a remoção?", "ruido": false},
+ {"id": "real03", "texto": "O Cata-Bagulho passou e não levou os meus móveis velhos.", "ruido": false},
+ {"id": "real04", "texto": "Preciso avisar a prefeitura para podar a árvore do meu quintal?", "ruido": false},
+ {"id": "real05", "texto": "A faixa de pedestre da esquina está apagada.", "ruido": false},
+ {"id": "real06", "texto": "Tem um carro abandonado na minha rua faz meses.", "ruido": false},
+ {"id": "real07", "texto": "Encontrei água parada num terreno, pode ser foco de dengue.", "ruido": false},
+ {"id": "real08", "texto": "Uma árvore caiu na rua, para quem eu ligo?", "ruido": true},
+ {"id": "real09", "texto": "Quanto custa o serviço de tapa-buraco?", "ruido": true},
+ {"id": "real10", "texto": "E onde eu faço esse pedido?", "ruido": true}
+]
